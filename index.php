@@ -45,6 +45,8 @@
         <h2 class="zip-statement"></h2>
         <div class="list"></div>
     </div>
+    
+    <div class="adding-to-test-git"></div>
   
 <?php  
     echo $structure->footer();
